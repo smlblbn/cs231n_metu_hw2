@@ -1,0 +1,21 @@
+name: deep
+dependencies:
+- Jinja2
+- MarkupSafe
+- certifi
+- ipython
+- matplotlib
+- mock
+- nose
+- numpy
+- pyparsing
+- python-dateutil
+- pytz
+- pyzmq
+- scipy
+- six
+- tornado
+- wsgiref
+- readline
+- jupyter
+#- backports.ssl-match-hostname
