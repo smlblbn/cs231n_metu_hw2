@@ -18,4 +18,3 @@ dependencies:
 - wsgiref
 - readline
 - jupyter
-#- backports.ssl-match-hostname
