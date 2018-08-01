@@ -1,5 +1,6 @@
 name: deep
 dependencies:
+- python=2.7.14
 - Jinja2
 - MarkupSafe
 - certifi
@@ -18,3 +19,4 @@ dependencies:
 - wsgiref
 - readline
 - jupyter
+- notebook
